@@ -1,0 +1,6 @@
+# ignore embedded repos & build scripts
+circom-v1/
+circom/
+rapidsnark/
+tornado-core/
+install_zk_stack_mac.sh
