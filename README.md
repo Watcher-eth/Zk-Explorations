@@ -3,6 +3,8 @@
 
 A curated workspace of zero‑knowledge proof experiments and prototypes, from basic hash preimage SNARKs to private order‑matching circuits for a Hyperliquid dark pool. Each day’s folder is a standalone mini‑project with its own README, scripts, and tests—while this top‑level document ties everything together.
 
+If you are new to zk, like I am at the point of building these, I recommend going through each project alongside an LLM like ChatGPT or Claude and ask questions or try to explain the code to it. It will help you understand the code better and also help you understand the concept better.
+
 ---
 
 ## 📖 Table of Contents
@@ -22,7 +24,7 @@ A curated workspace of zero‑knowledge proof experiments and prototypes, from b
 
 ## 🧩 Overview
 
-This repository houses a sequence of increasingly sophisticated zk‑SNARK projects:
+This repository houses a sequence of learnings about zk‑SNARKs through practical examples I find interesting.
 
 - **Core Write‑ups** of Circom circuits and snarkjs flows.  
 - **On‑chain stubs** in Solidity with Foundry tests for end‑to‑end verification.  
