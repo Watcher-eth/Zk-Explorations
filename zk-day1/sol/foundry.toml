@@ -1,6 +1,5 @@
 [profile.default]
-src = "src"
-out = "out"
-libs = ["lib"]
-
-# See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options
+src = 'contracts'
+test = 'test'
+solc-version = '0.8.20'
+evm_version = 'paris'
